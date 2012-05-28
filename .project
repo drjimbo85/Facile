@@ -3,6 +3,10 @@
 	<name>Facile</name>
 	<comment></comment>
 	<projects>
+		<project>android-async-http</project>
+		<project>com_facebook_android</project>
+		<project>com_handmark_pulltorefresh_library</project>
+		<project>Tutorials</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

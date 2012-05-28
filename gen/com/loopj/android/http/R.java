@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.drjimbo.facile;
+package com.loopj.android.http;
 
 public final class R {
     public static final class attr {
